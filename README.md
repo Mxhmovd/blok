@@ -8,7 +8,7 @@ Website Blocker for Linux, Mac & Windows.
 # Usage :shipit:
 ```
 git clone https://github.com/Mxhmovd/blok/
-sudo python blok [options]
+python blok [options]
 
 Options:
   -min        Number of minutes to block the website
@@ -19,3 +19,6 @@ Example:
   sudo python blok -min 30 -sites www.facebook.com --sys l
   *This will block Facebook for 30 Minutes on Linux
 ```
+<br/></br>
+Must use **Sudo on Linux** and run **cmd as Admin on Windows**\
+*DON'T CLOSE THE SCRIPT WHILE RUNNING
