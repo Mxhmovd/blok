@@ -1,2 +1,21 @@
-# blok
-Website Blocker for Linux, Mac &amp; Windows.
+# blok :no_entry_sign:
+Website Blocker for Linux, Mac & Windows.
+<p align="center"> <a href="https://imgbb.com/"><img src="https://image.ibb.co/bGUeoA/Screenshot-20181023-234856.png" alt="Website blocker" border="0"></a> </p>
+
+
+
+# Usage :shipit:
+```
+git clone https://github.com/Mxhmovd/blok/
+sudo python blok [options]
+
+Options:
+  -min        Number of minutes to block the website
+  -sites      websites names with comma seperated
+  --sys       l for linux, m for mac w for windows
+
+Example:
+  sudo python blok -min 30 -sites www.facebook.com --sys l
+  *This will block Facebook for 30 Minutes on Linux
+```
+
