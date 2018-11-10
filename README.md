@@ -1,9 +1,7 @@
 # blok :no_entry_sign:
 Temporary Website Blocker for Linux, Mac & Windows.
-<br/></br>
 
 
-<br/></br>
 # Usage :shipit:
 ```
 git clone https://github.com/Mxhmovd/blok/
