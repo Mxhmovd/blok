@@ -15,6 +15,3 @@ Example:
 <br/></br>
 Must use **Sudo on Linux** and run **cmd as Admin on Windows**\
 *DON'T CLOSE THE SCRIPT WHILE RUNNING
-
-<br/></br><br/></br>
-<p align="center"> <a href="https://imgbb.com/"><img src="https://image.ibb.co/bGUeoA/Screenshot-20181023-234856.png" alt="Website blocker" border="0"></a> </p>
